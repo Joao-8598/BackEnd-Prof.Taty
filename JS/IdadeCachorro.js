@@ -1,0 +1,1 @@
+let idadeCachorro = idadeHumana * 7
